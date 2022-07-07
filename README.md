@@ -4,6 +4,7 @@
 2. [heroku Account](https://id.heroku.com/login)
 3. [VS code IDE](https://code.visualstudio.com/download)
 4. [Git Cli](https://git-scm.com/downloads)
+5. [git documentation](https://git-scm.com/docs/git)
 
 ## For every project we need to create a separate environment
 creating conda environment
