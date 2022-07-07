@@ -22,7 +22,7 @@ pip install -r requirements.txt
 '''git add . '''' 
 OR 
 '''git add <filename>'''
-# NOTE: To ignore the tracking of file or folder from git we can add name of file/folder to .gitignorefile
+## NOTE: To ignore the tracking of file or folder from git we can add name of file/folder to .gitignorefile
 
 ## TO check git status 
 ''' git status'''
@@ -30,3 +30,7 @@ OR
 '''git log'''
 ## To create versions/commit all changes by git
 ''' git commit -m "message"
+## TO send versions/changes to github
+''' git push origin main'''
+## To check remote url
+'''git remote -v'''
